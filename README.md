@@ -1,3 +1,3 @@
 # gitTutorial
 
-simple git tutorial
+Simple git tutorial.
